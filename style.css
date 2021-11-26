@@ -1,0 +1,54 @@
+/* GLOBAL */
+
+p {
+    color: rgb(122,134,134);
+    background-color: wheat;
+    width: fit-content;
+    font-size: 24px;
+    font-weight: 200;
+}
+
+/* ADOBO STYLE */
+
+
+.adobo.unordered {
+    color: rgb(0,102,0);
+    width: fit-content; 
+    font-family: Helvetica;
+}
+
+
+.adobo.ordered {
+    color: purple;
+    font-family: Helvetica;
+}
+
+
+/* LASAGNA STYLE */
+
+
+.lasagna.unordered{
+    color: rgb(121, 7, 7);
+    font-family: Helvetica;
+
+
+}
+
+
+.lasagna.ordered {
+    color: rgb(121, 7, 7);
+    font-family: Helvetica;
+}
+
+
+/* PANCAKE STYLE */
+
+.pancakes.unordered {
+    color: rgb(194, 181, 108);
+    font-family: Helvetica;
+}
+
+.pancakes.ordered {
+    color: rosybrown;
+    font-family: Helvetica;
+}
